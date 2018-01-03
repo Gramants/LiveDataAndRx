@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxJava with LiveData</string>
+    <string name="update_userrx">Update username with Disposable</string>
+    <string name="update_userlivedata">Update username with Asynctask</string>
+    <string name="rx_op_to_livedata">Livedata and Zip Rx static Stream</string>
+    <string name="rx_op_to_livedata_network">Livedata and Zip Rx network Stream</string>
+
+</resources>
